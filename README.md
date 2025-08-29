@@ -38,4 +38,5 @@ python PixGuard.py
 - `NumPy` for pixel-level manipulation
 
 
-💼 Developed as part of my internship at **Skillcraft Technology** to strengthen skills in image processing, secure data handling, and Python programming.
+👩‍💻 Author
+Pallavi Thakur — Cybersecurity Intern at SkillCraft Technology
